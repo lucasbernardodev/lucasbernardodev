@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas!
 ==========================
 
-I am also a student at FAESO - Financial Management course
+I am also a student at UNIFIO - Software Engineering
 
 * 🌍  I'm based in Bernardino de Campos, São Paulo, Brazil
 * ✉️  You can contact me at [lucasdevs@protonmail.com](mailto:lucasdevs@protonmail.com)
