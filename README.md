@@ -8,7 +8,7 @@ src="https://img.shields.io/github/followers/lucasbernardodev?logo=github&style=
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasbernardodev" alt="lucasbernardodev" /></a> </p>
 
 * 🌍 I'm based in Bernardino de Campos, São Paulo, Brazil<br>
-* 🔭 I’m currently working on [My professional professional portfolio](https://github.com/lucasbernardodev/lucasgbsldeveloper)
+* 🔭 I'm currently working on a business and development project for an online party and event management solution with hardware for automated ticket scanning, a web application, and a mobile application!
 * ✉️ You can contact me at [lucasdevs@protonmail.com](mailto:lucasdevs@protonmail.com)
 
 <h3 align="left">Connect with me:</h3>
